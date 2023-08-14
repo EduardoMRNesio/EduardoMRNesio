@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37009d&height=120&section=header&text=Eduardo%20Miranda%20Rabelo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57ffae&height=120&section=header&text=Eduardo%20Miranda%20Rabelo&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=37009d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Miranda+Rabelo;I'm+27+years+old;I'm+from+Brasil;I+study+Science+Computer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57ffae&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Miranda+Rabelo;I'm+27+years+old;I'm+from+Brasil;I+study+Science+Computer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoMRNesio&show_icons=true&count_private=true&hide_border=true&title_color=37009d&icon_color=37009d&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Miranda Rabelo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMRNesio&layout=compact&hide_border=true&title_color=37009d&text_color=fff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoMRNesio&show_icons=true&count_private=true&hide_border=true&title_color=57ffae&icon_color=57ffae&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Miranda Rabelo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMRNesio&layout=compact&hide_border=true&title_color=57ffae&text_color=fff&bg_color=0d1117" />
 </div>
 
 
@@ -28,3 +28,13 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
